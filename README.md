@@ -11,3 +11,4 @@
 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./Python/backspace-string-compare.py) | _O(N)_ | _O(1)_ | Easy |
 862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Python](./Python/shortest-subarray-with-sum-at-least-k.py) | _O(N)_ | _O(N)_ | Hard |
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Python/squares-of-a-sorted-array.py) | _O(N)_ | _O(N)_ | Easy |
+2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | [Python](./Python/separate-black-and-white-balls.py) | _O(N)_ | _O(1)_ | Medium |
